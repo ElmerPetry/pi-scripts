@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+  <description>
+     <p>
+        Script Updates — The PixInsight update repository from Elmer Petry.
+     </p>
+  </description>
+   <platform os="all" arch="noarch" version="1.8.6:1.9.1">
+      <package fileName="20241226-smartindicator.tar.gz"
+               sha1="0d6b542dda3cfeb44339c9ad773b0e819c50a0a8"
+               type="script"
+               releaseDate="20241226">
+         <title>
+            PixInsight scripts from Elmer Petry - 2024 Dec 24
+         </title>
+         <description>
+            <p>
+               This update installs an script SmartIndicator
+               for PixInsight version 1.9, released December 26, 2024.
+            </p>
+            <p>
+               Under Script->Utilities you will find the SmartIndicator. This script helps to create and blend an image scale indicator into an image.
+            </p>
+            <p>
+               Copyright (c) 2024 Elmer Petry, All Rights Reserved.
+            </p>
+         </description>
+      </package>
+   </platform>
+</xri>

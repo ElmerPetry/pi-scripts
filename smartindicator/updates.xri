@@ -6,16 +6,13 @@
      </p>
   </description>
    <platform os="all" arch="noarch" version="1.8.6:1.9.1">
-      <package fileName="20241227-smartindicator.tar.gz"
-               sha1="b7f61ce17856da7f43afee5701f9be189acab56a"
+      <package fileName="202412271224-smartindicator.tar.gz"
+               sha1="205e19530631aa7fd1b2c2d254a4b2f0d558988c"
                type="script"
-               releaseDate="20241227">
+               releaseDate="202412271224">
          <title>
             PixInsight scripts from Elmer Petry - 2024 Dec 24
-	 </title>
-	 <remove>
-		 src/scripts/SmartIndicator.js
-	 </remove>
+         </title>
          <description>
             <p>
                This update installs an script SmartIndicator

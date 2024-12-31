@@ -7,10 +7,10 @@
      </p>
   </description>
    <platform os="all" arch="noarch" version="1.8.6:1.9.9">
-      <package fileName="202412311838-smartindicator.tar.gz"
-               sha1="4d317fc97885604d8a81ee806cd045fc5b74c4fc"
+      <package fileName="202412311855-smartindicator.tar.gz"
+               sha1="b89859623a34da571be40d4739eb0b85fdc8c456"
                type="script"
-               releaseDate="202412311838">
+               releaseDate="202412311855">
          <title>
             PixInsight scripts from Elmer Petry - 2024 Dec 24
          </title>

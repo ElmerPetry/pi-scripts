@@ -2,14 +2,15 @@
 <xri version="1.0">
   <description>
      <p>
-        Script Updates — The PixInsight update repository from Elmer Petry.
+        This is the repository for PixInsight scripts by Elmer Petry.
+	Copyright (c) 2024 Elmer Petry. All rights reserved.
      </p>
   </description>
-   <platform os="all" arch="noarch" version="1.8.6:1.9.1">
-      <package fileName="202412271224-smartindicator.tar.gz"
-               sha1="205e19530631aa7fd1b2c2d254a4b2f0d558988c"
+   <platform os="all" arch="noarch" version="1.8.6:1.9.9">
+      <package fileName="202412311838-smartindicator.tar.gz"
+               sha1="4d317fc97885604d8a81ee806cd045fc5b74c4fc"
                type="script"
-               releaseDate="202412271224">
+               releaseDate="202412311838">
          <title>
             PixInsight scripts from Elmer Petry - 2024 Dec 24
          </title>
@@ -22,7 +23,7 @@
                Under Script->Render you will find the SmartIndicator. This script helps to create and blend an image scale indicator into an image.
             </p>
             <p>
-               Copyright (c) 2024 Elmer Petry, All Rights Reserved.
+               Copyright (c) 2024 Elmer Petry. All rights reserved.
             </p>
          </description>
       </package>

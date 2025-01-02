@@ -7,16 +7,16 @@
      </p>
   </description>
    <platform os="all" arch="noarch" version="1.8.6:1.9.9">
-      <package fileName="202501021301-epyscripts.tar.gz"
-               sha1="948a43421b4e48550c844f3c78b1ee6922d9b00f"
+      <package fileName="202501021356-epyscripts.tar.gz"
+               sha1="34330483706ab5b01a13b83490362b550f06f580"
                type="script"
-               releaseDate="202501021301">
+               releaseDate="202501021356">
          <title>
-            SmartIndicator Version 1.1.0
+            SmartIndicator Version 1.1.1
          </title>
          <description>
             <p>
-               This update installs the script SmartIndicator Version 1.1.0
+               This update installs the script SmartIndicator Version 1.1.1
                for PixInsight.
             </p>
             <p>

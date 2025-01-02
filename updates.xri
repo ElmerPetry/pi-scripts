@@ -2,28 +2,28 @@
 <xri version="1.0">
   <description>
      <p>
-        This is the repository for PixInsight scripts by Elmer Petry.
-	Copyright (c) 2024 Elmer Petry. All rights reserved.
+        This is the repository for PixInsight scripts developed by Elmer Petry.
+	Copyright (c) 2024-2025 Elmer Petry. All rights reserved.
      </p>
   </description>
    <platform os="all" arch="noarch" version="1.8.6:1.9.9">
-      <package fileName="202412311855-smartindicator.tar.gz"
-               sha1="b89859623a34da571be40d4739eb0b85fdc8c456"
+      <package fileName="202501021301-epyscripts.tar.gz"
+               sha1="948a43421b4e48550c844f3c78b1ee6922d9b00f"
                type="script"
-               releaseDate="202412311855">
+               releaseDate="202501021301">
          <title>
-            PixInsight scripts from Elmer Petry - 2024 Dec 24
+            SmartIndicator Version 1.1.0
          </title>
          <description>
             <p>
-               This update installs an script SmartIndicator
-               for PixInsight version 1.9, released December 24, 2024.
+               This update installs the script SmartIndicator Version 1.1.0
+               for PixInsight.
             </p>
             <p>
-               Under Script->Render you will find the SmartIndicator. This script helps to create and blend an image scale indicator into an image.
+               Under Script->Render you will find the SmartIndicator. It helps to create and blend an image scale indicator into an image.
             </p>
             <p>
-               Copyright (c) 2024 Elmer Petry. All rights reserved.
+               Copyright (c) 2024-2025 Elmer Petry. All Rights Reserved.
             </p>
          </description>
       </package>

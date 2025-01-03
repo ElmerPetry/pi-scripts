@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xri version="1.0">
-  <description>
-     <p>
+   <description>
+      <p>
         This is the repository for PixInsight scripts developed by Elmer Petry.
 	Copyright (c) 2024-2025 Elmer Petry. All rights reserved.
      </p>
-  </description>
+   </description>
    <platform os="all" arch="noarch" version="1.8.6:1.9.9">
-      <package fileName="202501021356-epyscripts.tar.gz"
-               sha1="34330483706ab5b01a13b83490362b550f06f580"
-               type="script"
-               releaseDate="202501021356">
+      <package fileName="202501031328-epyscripts.tar.gz" sha1="427365b06a25e257458d4da6f07fa5b01d00fbe5" type="script" releaseDate="202501031328">
          <title>
             SmartIndicator Version 1.1.1
          </title>
@@ -20,7 +17,10 @@
                for PixInsight.
             </p>
             <p>
-               Under Script->Render you will find the SmartIndicator. It helps to create and blend an image scale indicator into an image.
+               Under Script-&gt;Render you will find the SmartIndicator. It helps to create and blend an image scale indicator into an image.
+            </p>
+            <p>
+               Last update: Added signatures.
             </p>
             <p>
                Copyright (c) 2024-2025 Elmer Petry. All Rights Reserved.
@@ -29,3 +29,4 @@
       </package>
    </platform>
 </xri>
+<Signature developerId="Elmer Petry" timestamp="2025-01-03T12:31:49.157Z" encoding="Base64">zfM7HLPmx4IsoVRqEtU2ypZhp3UIUlT56NJ3Vg87n1G+XG28QdgCTr1Vb1Oq43Bo5HSIG829fmuwvn/RkIhKAw==</Signature>

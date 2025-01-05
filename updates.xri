@@ -7,7 +7,7 @@
      </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.6:1.9.9">
-      <package fileName="202501050049-epyscripts.tar.gz" sha1="79091c08bfa1c44292148d9a00c28aee0fa47956" type="script" releaseDate="202501050049">
+      <package fileName="202501050104-epyscripts.tar.gz" sha1="b48d78143ca2926416c31128e2896af19c974b9e" type="script" releaseDate="202501050104">
          <title>
             SmartIndicator Version 1.1.2
 	 </title>
@@ -23,7 +23,7 @@
                Under Script-&gt;Render you will find the SmartIndicator. It helps to create and blend an image scale indicator into an image.
             </p>
             <p>
-               Last update: fix directory structure
+               Last update: Fix directory structure
             </p>
             <p>
                Copyright (c) 2024-2025 Elmer Petry. All Rights Reserved.
@@ -32,4 +32,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="Elmer Petry" timestamp="2025-01-04T23:50:30.473Z" encoding="Base64">Bpny5QDLXpMts/+l8VOA6gOfLJUAYlYbgzxwopUl6hWl52Bnu1jGXwgVbgxFOiIKHfYDoZKPLnCATFRWn0HRCQ==</Signature>
+<Signature developerId="Elmer Petry" timestamp="2025-01-05T00:06:15.787Z" encoding="Base64">WCz6PVj7XvpbxQbYP7oQoeyalOON7spDZogaDioXlz+3GNQUdO1q3tEW6L4WbbkBEmJH6QZtm0mLaF48nfNfCw==</Signature>

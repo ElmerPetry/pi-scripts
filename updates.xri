@@ -7,23 +7,20 @@
      </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.6:1.9.9">
-      <package fileName="202501050104-epyscripts.tar.gz" sha1="b48d78143ca2926416c31128e2896af19c974b9e" type="script" releaseDate="202501050104">
+      <package fileName="202501051449-epyscripts.tar.gz" sha1="f290100d0fbf604d6643fd67057220a9072ff97c" type="script" releaseDate="202501051449">
          <title>
-            SmartIndicator Version 1.1.2
-	 </title>
-         <remove>
-                 src/scripts/SmartIndicator.svg
-         </remove>
+            SmartIndicator Version 1.1.3
+         </title>
          <description>
             <p>
-               This update installs the script SmartIndicator Version 1.1.2
+               This update installs the script SmartIndicator Version 1.1.3
                for PixInsight.
             </p>
             <p>
                Under Script-&gt;Render you will find the SmartIndicator. It helps to create and blend an image scale indicator into an image.
             </p>
             <p>
-               Last update: Fix directory structure
+               Last update: preview autorefresh on changed values
             </p>
             <p>
                Copyright (c) 2024-2025 Elmer Petry. All Rights Reserved.
@@ -32,4 +29,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="Elmer Petry" timestamp="2025-01-05T00:06:15.787Z" encoding="Base64">WCz6PVj7XvpbxQbYP7oQoeyalOON7spDZogaDioXlz+3GNQUdO1q3tEW6L4WbbkBEmJH6QZtm0mLaF48nfNfCw==</Signature>
+<Signature developerId="Elmer Petry" timestamp="2025-01-05T13:51:48.443Z" encoding="Base64">KbS3ixRvSNallksTFBqVPTJ63ndI1aU2r1GW/cPRIk/uFGjBstuzFIPORGiEN3dEcf0eblKBEYjMSF5kTJCoBg==</Signature>

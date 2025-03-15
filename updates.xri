@@ -7,20 +7,20 @@
      </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package fileName="202503091833-epyscripts.tar.gz" sha1="47c9d59ca0c5de16ec1d2bb54ff0f384bc94bb68" type="script" releaseDate="202503091833">
+      <package fileName="202503151120-epyscripts.tar.gz" sha1="040cc1f64c90889a53d313cdfcb14d2f27ec4c07" type="script" releaseDate="202503151120">
          <title>
-            SmartIndicator Version 1.4.3
+            SmartIndicator Version 1.4.4
          </title>
          <description>
             <p>
-               This update installs the script SmartIndicator Version 1.4.3
+               This update installs the script SmartIndicator Version 1.4.4
                for PixInsight.
             </p>
             <p>
-               Under Script-&gt;Render you will find the SmartIndicator. It helps to create and blend an image scale indicator into an image.
+               Under Script-&gt;Render you will find the SmartIndicator. It helps to create and blend an orientation indicator or an image scale indicator into an image.
             </p>
             <p>
-               Last update: fix for image scale indicator in case of very small images
+               Last update: allow placing the orientation indicator at the edge of the image, optimizations, added AutoFontScale feature
             </p>
             <p>
                Copyright (c) 2024-2025 Elmer Petry. All Rights Reserved.
@@ -29,4 +29,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="Elmer Petry" timestamp="2025-03-09T17:34:11.166Z" encoding="Base64">boGntV2Wf8F33vYOXGFTWX8JVphbxk8wWGGHvEun+v+SE/vanKkCFebTNhWMWDAqcyoRmq78Rkm5aMIydcpwDw==</Signature>
+<Signature developerId="Elmer Petry" timestamp="2025-03-15T10:20:58.910Z" encoding="Base64">ZjUUaAdot48Bg9rOaeRZ9Rqvdv7ZdRuiDFOIYTbw6LAl1aGx+x3AUJhMCnmyJZu0rlsGpB9p3QgLY5TSMkGADQ==</Signature>

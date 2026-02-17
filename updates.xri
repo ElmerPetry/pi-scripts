@@ -3,30 +3,30 @@
    <description>
       <p>
         This is the repository for PixInsight scripts developed by Elmer Petry.
-	Copyright (c) 2024-2025 Elmer Petry. All rights reserved.
+	Copyright (c) 2024-2026 Elmer Petry. All rights reserved.
      </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package fileName="202503151240-epyscripts.tar.gz" sha1="7efd2a61640ca23a23a03528da6edf0f49d4cfab" type="script" releaseDate="202503151240">
+      <package fileName="202602172052-epyscripts.tar.gz" sha1="3440eefbd680877b46009bd4c896e4182941dce3" type="script" releaseDate="202602172052">
          <title>
-            SmartIndicator Version 1.4.5
+            SmartIndicator Version 1.4.6
          </title>
          <description>
             <p>
-               This update installs the script SmartIndicator Version 1.4.5
+               This update installs the script SmartIndicator Version 1.4.6
                for PixInsight.
             </p>
             <p>
                Under Script-&gt;Render you will find the SmartIndicator. It helps to create and blend an orientation indicator or an image scale indicator into an image.
             </p>
             <p>
-               Last update: fixed text clipping issue
+               Last update: fixed an issue affecting images with alpha channels
             </p>
             <p>
-               Copyright (c) 2024-2025 Elmer Petry. All Rights Reserved.
+               Copyright (c) 2024-2026 Elmer Petry. All Rights Reserved.
             </p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="Elmer Petry" timestamp="2025-03-15T11:40:59.655Z" encoding="Base64">dxnOKUslKaCwHlTEm1JHGCjL2FkdoIShjian7GT6qVJKZ1EigY4sR/jzO9740SCMm1SVuEIe7Vt0d1W1O6rbDg==</Signature>
+<Signature developerId="Elmer Petry" timestamp="2026-02-17T19:53:36.334Z" encoding="Base64">Waez2DzEhQbNit/+QHb1lINGia9gdPjMXLOAUPrmqhb1MBw2ZAXxmRK9+0gZ1/2L/aGPgummFRp5jWCpW9VDBQ==</Signature>

@@ -6,8 +6,30 @@
 	Copyright (c) 2024-2026 Elmer Petry. All rights reserved.
      </p>
    </description>
-   <platform os="all" arch="noarch" version="1.8.9:1.9.9">
-      <package fileName="202607251258-epyscripts.tar.gz" sha1="e723c858792c557e16ab2bb38f3c8ec657efbe9b" type="script" releaseDate="202607251258">
+   <platform os="all" arch="noarch" version="1.9.4:1.9.9">
+      <package fileName="202608201953-epyscripts.tar.gz" sha1="eb9c23f3c86286727d82876b5fbf430d89c6776a" type="script" releaseDate="202608201953">
+         <title>
+            SmartIndicator Version 1.5.1
+         </title>
+         <description>
+            <p>
+               This update installs the script SmartIndicator Version 1.5.1
+               for PixInsight.
+            </p>
+            <p>
+               Under Script → Render you will find SmartIndicator. It enables you to generate and blend an indicator (scale, orientation, or angular separation) onto a target image. 
+            </p>
+            <p>
+               Last update: ported to new engine v8, optimisations, updated doc
+            </p>
+            <p>
+               Copyright (c) 2024-2026 Elmer Petry. All Rights Reserved.
+            </p>
+         </description>
+      </package>
+   </platform>
+   <platform os="all" arch="noarch" version="1.8.9:1.9.3">
+      <package fileName="202608161827-epyscripts.tar.gz" sha1="e7aa38e40294ae22de139b3c9f7979cdd3d71ea3" type="script" releaseDate="202608161827">
          <title>
             SmartIndicator Version 1.5.0
          </title>
@@ -17,10 +39,10 @@
                for PixInsight.
             </p>
             <p>
-               Under Script → Render you will find SmartIndicator. It enables you to generate and blend an indicator (scale, orientation, or angular separation) onto a target image. 
+               Under Script → Render you will find SmartIndicator. It enables you to generate and blend an indicator (scale, orientation, or angular separation) onto a target image.
             </p>
             <p>
-               Last update: added new angular separation indicator type, updated doc
+               Last update: latest version for PI 1.9.3
             </p>
             <p>
                Copyright (c) 2024-2026 Elmer Petry. All Rights Reserved.
@@ -29,4 +51,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="Elmer Petry" timestamp="2026-07-25T11:00:18.200Z" encoding="Base64">g7V3yd5vDpnbekL7FD94sp511spz+/PWq9Y7vvOBfX2qRC1f/bKzBjeJq7Y+O6iDasROWHuJzLNTxzik/8aUDw==</Signature>
+<Signature developerId="Elmer Petry" timestamp="2026-08-20T18:01:03.505Z" encoding="Base64">8bcnF6AX0oB6MVOnHQiDz3ek+2thlif4FKzPYDo1Wxvg80Tbqzp4WXGUnTRdYzAVWFIA1o3DIWr+Q/G0cuDKAA==</Signature>

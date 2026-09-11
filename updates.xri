@@ -7,20 +7,20 @@
      </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="202608201953-epyscripts.tar.gz" sha1="eb9c23f3c86286727d82876b5fbf430d89c6776a" type="script" releaseDate="202608201953">
+      <package fileName="202609112103-epyscripts.tar.gz" sha1="a0cbb869461943086876439613c2b73425d59c02" type="script" releaseDate="202609112103">
          <title>
-            SmartIndicator Version 1.5.1
+            SmartIndicator Version 1.6.0
          </title>
          <description>
             <p>
-               This update installs the script SmartIndicator Version 1.5.1
+               This update installs the script SmartIndicator Version 1.6.0
                for PixInsight.
             </p>
             <p>
-               Under Script → Render you will find SmartIndicator. It enables you to generate and blend an indicator (scale, orientation, or angular separation) onto a target image. 
+               Under Script → Render you will find SmartIndicator. It enables you to generate and blend an indicator (scale, orientation, angular separation, or text) onto a target image. 
             </p>
             <p>
-               Last update: ported to new engine v8, optimisations, updated doc
+               Last update: added new text indicator type, optimisations, updated doc
             </p>
             <p>
                Copyright (c) 2024-2026 Elmer Petry. All Rights Reserved.
@@ -51,4 +51,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="Elmer Petry" timestamp="2026-08-20T18:01:03.505Z" encoding="Base64">8bcnF6AX0oB6MVOnHQiDz3ek+2thlif4FKzPYDo1Wxvg80Tbqzp4WXGUnTRdYzAVWFIA1o3DIWr+Q/G0cuDKAA==</Signature>
+<Signature developerId="Elmer Petry" timestamp="2026-09-11T19:05:53.197Z" encoding="Base64">4DzZrLfFH26VfSXIlabvF3gJIoOf6nNJHaWMsvmkIHcyoegTjnYFiK9NuH/MEKbNfdTnkc2PQxo/zSxrZFT0Cg==</Signature>

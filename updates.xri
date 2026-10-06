@@ -6,43 +6,21 @@
 	Copyright (c) 2024-2026 Elmer Petry. All rights reserved.
      </p>
    </description>
-   <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="202609121244-epyscripts.tar.gz" sha1="df1fbecbfb2b4d6a1e60f8eb6bf0b2c1588ccba5" type="script" releaseDate="202609121244">
+   <platform os="all" arch="noarch" version="1.9.5.1706:1.9.9">
+      <package fileName="202610062102-epyscripts.tar.gz" sha1="802f4ac7790cd55694db06c49e1b94a438681051" type="script" releaseDate="202610062102">
          <title>
-            SmartIndicator Version 1.6.1
+            SmartIndicator Version 1.6.2
          </title>
          <description>
             <p>
-               This update installs the script SmartIndicator Version 1.6.1
+               This update installs the script SmartIndicator Version 1.6.2
                for PixInsight.
             </p>
             <p>
                Under Script → Render you will find SmartIndicator. It enables you to generate and blend an indicator (scale, orientation, angular separation, or text) onto a target image. 
             </p>
             <p>
-               Last update: improved text indicator rendering for large fonts
-            </p>
-            <p>
-               Copyright (c) 2024-2026 Elmer Petry. All Rights Reserved.
-            </p>
-         </description>
-      </package>
-   </platform>
-   <platform os="all" arch="noarch" version="1.8.9:1.9.3">
-      <package fileName="202608161827-epyscripts.tar.gz" sha1="e7aa38e40294ae22de139b3c9f7979cdd3d71ea3" type="script" releaseDate="202608161827">
-         <title>
-            SmartIndicator Version 1.5.0
-         </title>
-         <description>
-            <p>
-               This update installs the script SmartIndicator Version 1.5.0
-               for PixInsight.
-            </p>
-            <p>
-               Under Script → Render you will find SmartIndicator. It enables you to generate and blend an indicator (scale, orientation, or angular separation) onto a target image.
-            </p>
-            <p>
-               Last update: latest version for PI 1.9.3
+               Last update: adjust for changed rotation behavior
             </p>
             <p>
                Copyright (c) 2024-2026 Elmer Petry. All Rights Reserved.
@@ -51,4 +29,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="Elmer Petry" timestamp="2026-09-12T10:46:11.273Z" encoding="Base64">2ACYr+/ej7sI+lfYvA1P2+tk6uKvN6+PV5Zpk9HGNMAQ24Nzbj4jRKIlzzbUt7WPCrKhl9+YGUxAM4nUyLWfAg==</Signature>
+<Signature developerId="Elmer Petry" timestamp="2026-10-06T19:03:45.096Z" encoding="Base64">EFvDNcgUSig9tZARXj9D4C1MhNKFCDt5r+Ie/e+8FJinQk/caUKOE41z8Gib2/tr4mKbRPMyMvJ7hmn0nEVhBQ==</Signature>

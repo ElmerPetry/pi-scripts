@@ -7,20 +7,20 @@
      </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.5.1706:1.9.9">
-      <package fileName="202610062102-epyscripts.tar.gz" sha1="802f4ac7790cd55694db06c49e1b94a438681051" type="script" releaseDate="202610062102">
+      <package fileName="202611071320-epyscripts.tar.gz" sha1="7b3acbff547a9dd3d7df49357fa3d1135de3ab79" type="script" releaseDate="202611071320">
          <title>
-            SmartIndicator Version 1.6.2
+            SmartIndicator Version 1.7.0
          </title>
          <description>
             <p>
-               This update installs the script SmartIndicator Version 1.6.2
+               This update installs the script SmartIndicator Version 1.7.0
                for PixInsight.
             </p>
             <p>
-               Under Script → Render you will find SmartIndicator. It enables you to generate and blend an indicator (scale, orientation, angular separation, or text) onto a target image. 
+               Under Script → Render you will find SmartIndicator. It enables you to generate and blend an indicator (scale, orientation, angular separation, text, or supernova) onto a target image. 
             </p>
             <p>
-               Last update: adjust for changed rotation behavior
+               Last update: <ul><li>Major refactoring and optimizations.</li><li>Indicator settings are now persisted across indicator switches and application restarts.</li><li>Preview rendering has been updated to reflect all parameter changes in real time.</li><li>Added support for applying indicators directly to a target image without leaving the SmartIndicator dialog.</li><li>Multiple indicators can now be applied sequentially to a single target image with no predefined limit.</li><li>The Text Indicator&apos;s Auto Position mode has been enhanced to automatically align text to the line endpoint when horizontal text alignment is selected and an arrowhead is enabled.</li><li>Added support for the Contained Windowing Mode.</li><li>Added the new Supernova Indicator for precise annotation of stars and other small celestial objects.</li></ul>
             </p>
             <p>
                Copyright (c) 2024-2026 Elmer Petry. All Rights Reserved.
@@ -29,4 +29,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="Elmer Petry" timestamp="2026-10-06T19:03:45.096Z" encoding="Base64">EFvDNcgUSig9tZARXj9D4C1MhNKFCDt5r+Ie/e+8FJinQk/caUKOE41z8Gib2/tr4mKbRPMyMvJ7hmn0nEVhBQ==</Signature>
+<Signature developerId="Elmer Petry" timestamp="2026-11-07T12:20:58.487Z" encoding="Base64">Les1t4tXrXSlwoZbNm5UpUt0x0EPUg9lODZEthVvGhcSC3MoVGP7TnbhcVwrvWC3s62RHZ12m/bFanpQBPSJBQ==</Signature>
